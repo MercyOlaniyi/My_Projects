@@ -1,9 +1,9 @@
 # My_Projects Documentation
-
+---
 ## Project Title : Sales Dataset
 
 ## Project Overview
-
+---
 ### Project Aim
 To gain valuable insights into sales performance and identify trends by conducting a comprehensive analysis of a sales dataset.
 
@@ -37,7 +37,7 @@ This is a public dataset that was freely downloaded from Kaggle an opensource.
 ### Time Period
 The dataset spans from 2014-2015 
  
-### Analysis Objective
+### Exploratory Data Analysis
 The following insights will be drawn from the dataset
 
 **1. Customer Segmentation**: Identify customer segments based on demographics, purchase behavior, and other relevant factors.
@@ -52,6 +52,8 @@ The following insights will be drawn from the dataset
 
 ### Data Cleaning and Preparation
 
+- **Data loading and inspection**: To have a general overview of the data
+
 - **Handle Missing Values**: Address missing data using appropriate techniques by manual inputation, using the average for the numerical data and mode for the non-numerical data.
 
 - **Data Formatting**: Ensured data consistency and uniformity, by grouping them into the right categories
@@ -62,7 +64,7 @@ The following insights will be drawn from the dataset
 
 - **Data Visualization**: Create visualizations to explore relationships and patterns within the data.
 
-Analytical Tools 
+### Analytical Tools 
 - Microsoft Excel was used in cleaning, analysis and Visualization
   
-
+### Data Visualisation
