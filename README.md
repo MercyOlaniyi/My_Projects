@@ -73,3 +73,47 @@ The following insights will be drawn from the dataset
 - Microsoft Excel was used in cleaning, analysis and Visualization
   
 ### Data Visualisation
+
+These images shows the pivot tables used in building the dashboard that shows an overview of the sales perfomaance of the different regions.
+
+### Revenue by Region: 
+This findings as shown in the pivot table below shows that;
+
+**North East** is the top-performing region, generating the highest revenue of **18.64M.**
+
+**South West** comes in second with a revenue of **15.88M.**
+
+**North Central** is the lowest-performing region with a revenue of **6.49M.**
+
+![Revenue by Region](https://github.com/user-attachments/assets/5320f782-cf30-468a-9b13-9008a84c9bbd)
+
+### Unit Cost by Region:
+
+**North East** is the top-performing region, selling the highest number of units (208,983).
+
+**South West** comes in second with 169,730 units sold.
+
+**North Central** is the lowest-performing region with only 54,522 units sold.
+
+![Unit Sold per region](https://github.com/user-attachments/assets/4d51c13d-7d10-4fcb-9179-5be6c605ddc0)
+
+### Top 10 Stores in the Region
+
+**Ajaokuta and Ankpa** are the top-performing stores, generating significantly higher revenue compared to other stores.
+
+The remaining stores have relatively similar revenue levels, with Ekiti South-West being the highest among them.
+
+![Top 10 Stores](https://github.com/user-attachments/assets/0aeb0d83-28c5-40a2-9623-a1235c34302c)
+
+### Product Performance
+
+Parts significantly outperforms other products, accounting for the majority of units sold (493,826). This suggests a strong demand for replacement parts or accessories.
+
+Service Plans have a substantial contribution to overall sales (257,766), indicating a high value placed on maintenance and support services.
+
+Copier Sales and Printer Sales have relatively lower unit sales compared to parts and service plans.
+
+![Quantity Sold per prodct](https://github.com/user-attachments/assets/ca0871dd-17d6-4e51-ab9b-c2e626ff2021)
+
+![Dashboard](https://github.com/user-attachments/assets/912a22c1-8cf4-485d-a4bd-a6f96f14394a)
+
