@@ -7,6 +7,10 @@
 
 [Exploratory Data Analysis](#eploratory-dataanalysis)
 
+[Data Visualisation](#data-visualisatio)
+
+[Dashboard Overview: Sales Performance (2015)](Dashboard-overview:salesperformance(2015))
+
 ## Project Overview
 ---
 ### Project Aim
@@ -115,5 +119,32 @@ Copier Sales and Printer Sales have relatively lower unit sales compared to part
 
 ![Quantity Sold per prodct](https://github.com/user-attachments/assets/ca0871dd-17d6-4e51-ab9b-c2e626ff2021)
 
-![Dashboard](https://github.com/user-attachments/assets/912a22c1-8cf4-485d-a4bd-a6f96f14394a)
+## Dashboard Overview: Sales Performance (2015)
+---
+This dashboard provides a comprehensive view of sales performance in 2015.
+
+![Dashboard](https://github.com/user-attachments/assets/20dee45a-1630-4fce-8aac-503aaf885bb0)
+
+
+### Parts Sales Dominate 
+
+Parts emerged as the top-selling product, accounting for a significant portion of our revenue. 
+
+Investing in this category and leveraging its popularity to cross-promote other products could drive further growth.
+
+### Medium-Volume Customers Lead the Pack 
+
+The majority of the purchase fall into the medium-volume segment, purchasing between 21 and 50 units. 
+
+Understanding the preferences of the buyers and tailoring offerings to their needs can enhance customer satisfaction and loyalty.
+
+### Seasonal Sales Trends
+
+- **Peak Performance in May 2014**: We experienced a surge in sales in May 2014. Analyzing the factors contributing to this peak can help replicate similar success in the future.
+
+- **Seasonal Dip in December 2014**: A noticeable decline in sales occurred in December 2014. Understanding the reasons behind this dip can help mitigate similar trends in future years.
+
+- **Rebound in February 2015**: A strong recovery was observed in February 2015, with sales reaching a new high. Investigating the factors driving this increase can inform strategic decisions for future growth.
+
+By leveraging these insights, we can optimize our sales strategies, target the right customer segments, and capitalize on seasonal trends to drive sustainable growth
 
